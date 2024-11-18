@@ -29,7 +29,7 @@ The .CSV database contains 881,666 rows, with columns providing customer demogra
 The results of the analysis were quite significant. Initially, the company was facing a high churn rate of 56%. After a detailed analysis, it was identified that factors such as excessive call center calls were negatively influencing customer retention. By implementing corrective actions based on the correlations found, there was an impressive reduction in the churn rate, which dropped to 18%. This demonstrates the effectiveness of the measures adopted and the importance of using data to guide customer retention strategies. The analysis also revealed valuable insights into customer behavior, allowing the company to adjust its approaches and significantly improve its results.
 
 ---
-## ""License**
+## **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---

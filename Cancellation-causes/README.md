@@ -4,10 +4,11 @@ The company discovered that most of its customers are inactive. To improve, it w
 ---
 
 ## **Table of Contents**
-1. [About the Project](#about-the-project)  
-2. [Data Overview](#data-overview)  
-3. [Results and Insights](#results-and-insights) 
-4. [License](#license)
+1. [About the Project](#about-the-project)
+2. [Demo](#demo)  
+3. [Data Overview](#data-overview)  
+4. [Results and Insights](#results-and-insights) 
+5. [License](#license)
 
 ---
 
@@ -15,6 +16,9 @@ The company discovered that most of its customers are inactive. To improve, it w
 The company identified that most of its active customers had become inactive, which prompted a project aimed at reducing cancellation rates. The project consisted of analyzing a customer database, which contained information such as age, gender, plan, length of time as a customer, number of calls to the call center, among others. First, the dataset was loaded, and null and/or irrelevant values ​​were identified and cleaned. Then, it was calculated how many customers canceled their services. Understanding the severity of the situation, all variables were compared with cancellations to identify correlations. For example, it was discovered that customers who received more than five calls from the call center were more likely to cancel their services. After identifying the problems, simulations were performed to predict the results of corrective actions. By solving just three problems, the cancellation rate dropped from 56% to 18%.
 
 ---
+
+## **Demo**
+[See the notebook](https://github.com/EduardErich/Data-Analysis-Portfolio/blob/main/Cancellation-causes/Cancellation-analysis.ipynb)
 
 ## **Data Overview**
 The .CSV database contains 881,666 rows, with columns providing customer demographic and behavioral information. Data includes age, gender, plan type, length of customer service, and number of calls to the call center. The analysis of the database focused on understanding customer churn patterns and identifying variables that influence these rates.
